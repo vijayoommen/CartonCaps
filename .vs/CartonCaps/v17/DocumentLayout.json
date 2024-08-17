@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\tokeninforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\tokeninforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\referralstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\referralstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\referralresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\referralresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\referralrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\referralrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\referralcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\referralcoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\errorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\errorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\cartoncaps.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\cartoncaps.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.contacts\\cartoncaps.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32EEAD81-C99D-4DD4-812D-AE6CCE3FDDC9}|CartonCaps.Contacts\\CartonCaps.Contracts.csproj|solutionrelative:cartoncaps.contacts\\cartoncaps.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E538B18-133F-44B9-8D80-4C43BCB258DD}|CartonCaps.Api\\CartonCaps.Api.csproj|c:\\users\\vijay oommen\\source\\repos\\cartoncaps\\cartoncaps.api\\services\\referralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E538B18-133F-44B9-8D80-4C43BCB258DD}|CartonCaps.Api\\CartonCaps.Api.csproj|solutionrelative:cartoncaps.api\\services\\referralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenInfoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\TokenInfoResponse.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\TokenInfoResponse.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\TokenInfoResponse.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\TokenInfoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:37.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReferralStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralStatus.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\ReferralStatus.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralStatus.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\ReferralStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReferralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralResponse.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\ReferralResponse.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralResponse.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\ReferralResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReferralRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralRequest.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\ReferralRequest.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralRequest.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\ReferralRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:32.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferralCodeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralCodeResponse.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\ReferralCodeResponse.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ReferralCodeResponse.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\ReferralCodeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorList.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ErrorList.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\ErrorList.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\ErrorList.cs",
+              "RelativeToolTip": "CartonCaps.Contacts\\ErrorList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:07:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartonCaps.Contracts",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "RelativeToolTip": "CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T19:07:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartonCaps.Contracts",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "RelativeDocumentMoniker": "CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "RelativeToolTip": "CartonCaps.Contacts\\CartonCaps.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T19:07:06.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReferralService.cs",
+              "DocumentMoniker": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Api\\Services\\ReferralService.cs",
+              "RelativeDocumentMoniker": "CartonCaps.Api\\Services\\ReferralService.cs",
+              "ToolTip": "C:\\Users\\Vijay Oommen\\source\\repos\\CartonCaps\\CartonCaps.Api\\Services\\ReferralService.cs",
+              "RelativeToolTip": "CartonCaps.Api\\Services\\ReferralService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:06:58.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

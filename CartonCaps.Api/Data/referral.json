@@ -1,0 +1,27 @@
+[
+	{
+		"userId": 1,
+		"referralCode": "ONECODE",
+		"referred": []
+	},
+	{
+		"userId": 2,
+		"referralCode": "AD3NY",
+		"referred": [
+			{
+				"email": "jason@example.com",
+				"phone": "713-123-1111",
+				"name": "Jason",
+				"enrolled": false,
+				"token": "dc62edc0-ec23-4074-ab4f-c3ba277a65ed"
+			},
+			{
+				"email": "brad@example.com",
+				"phone": "713-123-2222",
+				"name": "Brad",
+				"enrolled": false,
+				"token": "31604c4f-c9c6-4b01-a741-419f90ffa0db"
+			}
+		]
+	}
+]
