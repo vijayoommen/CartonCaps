@@ -72,7 +72,7 @@ public class ReferralServicesTests
 
         var response = await _referralService.GetReferralStatusAsync(1);
 
-        Assert.True(response.ReferralCode == null);
+        Assert.True(response.ReferralCode == string.Empty);
 
     }
 
