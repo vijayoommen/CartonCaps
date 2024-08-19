@@ -35,3 +35,13 @@ If the token is invalid, the API returns a 400 Bad Request.
 
 Almost everyone has more than one email address. It is possible for users to refer their alternate email ids and game the system, in order to collect rewards for referrals.
 Yes, it is important to take extra steps to mitigate abuse.
+
+# Run Instructions
+
+Restore Nuget Packages
+Choose the CartonCaps.Api project and run the `https` Profile.
+Swagger should load 
+Attempt the endpoints in Swagger 
+ - User Id of 1 as a valid user 
+ - User id 100 is an invalid user
+ 
