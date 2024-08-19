@@ -53,7 +53,7 @@ public class ReferralsController : ControllerBase
     /// <response code="200">Returns the list of tokens</response>
     /// <response code="400">If the user id is invalid</response>
     [HttpPost]
-    [Route("api/users/{userId:int}/referal-tokens")]
+    [Route("api/users/{userId:int}/referral-tokens")]
     [ProducesResponseType<ReferralResponse>(StatusCodes.Status200OK)]
     [ProducesResponseType<ErrorList>(StatusCodes.Status400BadRequest)]
     public async Task<IActionResult> GenerateReferalLinks([FromRoute] int userId, List<ReferralRequest> requests)
@@ -77,7 +77,7 @@ public class ReferralsController : ControllerBase
     /// <response code="200">Returns a list of users referred and if they have enrolled</response>
     /// <response code="400">The user id is invalid</response>
     [HttpGet]
-    [Route("api/users/{userId:int}/referal-status")]
+    [Route("api/users/{userId:int}/referral-status")]
     [ProducesResponseType<ReferralStatus>(StatusCodes.Status200OK)]
     [ProducesResponseType<ErrorList>(StatusCodes.Status400BadRequest)]
     public async Task<IActionResult> GetReferralStatus([FromRoute] int userId)
