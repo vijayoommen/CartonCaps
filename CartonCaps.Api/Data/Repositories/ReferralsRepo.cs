@@ -50,7 +50,7 @@ public class ReferralsRepo : IReferralsRepo
         await SaveUserAsync(user);
     }
 
-    private async Task<UserReferralEntity> GetUserAsync(int userId)
+    private async Task<UserReferralEntity?> GetUserAsync(int userId)
     {
         var data = await _dataSource.GetReferralDataAsync();
         return data.SingleOrDefault(_ => _.UserId == userId);

@@ -2,5 +2,5 @@
 
 public class ReferralCodeResponse
 {
-    public string ReferralCode { get; set; }
+    public string ReferralCode { get; set; } = string.Empty;
 }

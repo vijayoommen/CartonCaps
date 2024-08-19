@@ -9,7 +9,7 @@ public interface IReferralService
     Task<string> GetReferralCodeAsync(int userId);
     Task<List<ReferralResponse>> GenerateReferralTokensAsync(int userId, List<ReferralRequest> requests);
     Task<ReferralStatus> GetReferralStatusAsync(int userId);
-    Task<TokenInfoResponse> RetrieveReferralTokenAsync(string token);
+    Task<TokenInfoResponse?> RetrieveReferralTokenAsync(string token);
 }
 
 public class ReferralService : IReferralService
@@ -39,7 +39,8 @@ public class ReferralService : IReferralService
         requests.ForEach(_ =>
         {
             var referrence = user.Referred
-                .Where(u => u.Email.ToLower().Equals(_.Email) && u.Phone.Equals(_.Phone))
+                .Where(u => !string.IsNullOrEmpty(u.Email) && u.Email.ToLower().Equals(_.Email) 
+                            && !string.IsNullOrEmpty(u.Phone) && u.Phone.Equals(_.Phone))
                 .FirstOrDefault();
 
             if (referrence == null)
@@ -94,7 +95,7 @@ public class ReferralService : IReferralService
 
     }
 
-    public async Task<TokenInfoResponse> RetrieveReferralTokenAsync(string token)
+    public async Task<TokenInfoResponse?> RetrieveReferralTokenAsync(string token)
     {
         var referralUser = await _referralRepo.GetUserByToken(token);
         var referral = referralUser?.Referred.FirstOrDefault(_ => _.Token == token) ?? null;

@@ -4,7 +4,7 @@ namespace CartonCaps.Api.Data.Repositories;
 
 public interface IUserRepo
 {
-    Task<UserEntity> GetUserAsync(int userId);
+    Task<UserEntity?> GetUserAsync(int userId);
 }
 
 public class UserRepo : IUserRepo
@@ -16,7 +16,7 @@ public class UserRepo : IUserRepo
         _dataSource = dataSource;
     }
 
-    public async Task<UserEntity> GetUserAsync(int userId)
+    public async Task<UserEntity?> GetUserAsync(int userId)
     {
         var users = await _dataSource.GetUsersDataAsync();
         return users.Where(_ => _.UserId == userId).SingleOrDefault();
